@@ -2,6 +2,7 @@
 layout: post
 title:  "Wskazówki dla osób chcących się rozwijać"
 date:   2014-12-30 12:17:44
+author: artur_delura
 categories: general
 ---
 Podstawowym wymogiem uczestnictwa w zajęciach jest znajomość HTML i CSS. Dla osób, które nie spełniły tego wymagania zachęcamy do pracy na tym polu :) Język CSS w połączeniu z HTML pozwala stworzyć funkcjonalne strony, dlatego zachęcamy do nauki tego duetu najpierw. Język programowania JavaScript pozwala na większą interaktywność, współpracuje on głównie z HTML.
