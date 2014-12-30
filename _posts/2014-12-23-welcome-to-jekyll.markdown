@@ -1,25 +1,25 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2014-12-23 12:05:44
-categories: jekyll update
+title:  "Wskazówki dla osób chcących się rozwijać"
+date:   2014-12-30 12:17:44
+categories: general
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Podstawowym wymogiem uczestnictwa w zajęciach jest znajomość HTML i CSS. Dla osób, które nie spełniły tego wymagania zachęcamy do pracy na tym polu :) Język CSS w połączeniu z HTML pozwala stworzyć funkcjonalne strony, dlatego zachęcamy do nauki tego duetu najpierw. Język programowania JavaScript pozwala na większą interaktywność, współpracuje on głównie z HTML.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Chyba największy problem w trakcie nauki związany jest z motywacją (wiem po sobie). Co zrobić, żeby nie poddać się na przedbiegach? Ważnym czynnikiem jest wiedza na temat do czego możemy wykorzystać umiejętności, które teraz zdobywamy. Więc niech wasza ciekawość nie zna granic, szukajcie inspiracji! Przykładową stroną gdzie możecie zobaczyć jakie cuda można stworzyć za pomocą HTML i CSS jest [cssbake.com](http://cssbake.com).
 
-Jekyll also offers powerful support for code snippets:
+Praca w pojedynkę jest trudniejsza - poszukajcie osoby podobne do was, które są na podobnej drodze co Wy. Wtedy będziecie mogli motywować się nawzajem - gdy jednej osobie jest trudniej, reszta pomoże. W grupie raźniej! Facebook jest bardzo dobrym miejscem, gdzie ludzie organizują się w grupy: 
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+* [HTML5 i CSS3: pierwsze kroki](https://www.facebook.com/groups/742940452405327/)
+* [Front-end: pierwsza praca w HTML5, CSS3 i JavaScript](https://www.facebook.com/groups/1485218891734165/)
 
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
+Bardzo dobrą rzeczą jest znalezienie mentora - osoby, która podpowie, w którym kierunku iść dalej, pokaże jasny cel i zmotywuje.
 
-[jekyll]:      http://jekyllrb.com
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-help]: https://github.com/jekyll/jekyll-help
+Coś co może dodatkowo zmotywować jest przejrzenie ofert pracy jako Front-End Web Developer, Web Developer itp. Myślę, że czynniki motywujące są jasne :) Ciekawą rzeczą jest przejrzenie wymagań - dobrze też jest wiedzieć, co jest wymagane przez pracodawce i żeby móc dopasować się najbardziej.
+
+Teraz trochę konkretów. W sieci dostępna jest nieograniczona ilość materiałów, to bardzo dobrze. Niestety nie każdy zasób jest dobrej jakości, a wiele treści szybko staje się nieaktualna. Zeby przyjemnie i bezboleśnie zacząć przygodę z HTML i CSS polecam książkę [HTML i CSS. Zaprojektuj i zbuduj witrynę WWW](http://helion.pl/ksiazki/html-i-css-zaprojektuj-i-zbuduj-witryne-www-jon-duckett,htcsww.htm). Książka ma dużą przewagę nad uczeniem się z pojedyńczych tutoriali, ponieważ zapewnia spójną całość i mamy pewność, że nic co ważnie nie dostało pominięte. Darmową alternatywą jest książka Damiana Wielgosika [Moja pierwsza strona internetowa
+w HTML5 i CSS3](http://ferrante.pl/books/html/), jest ona bardzo aktualna. Kolejną - bardziej zaawansowaną ksiązką, którą polecam jest [Podręcznik CSS. Eric Meyer o tworzeniu nowoczesnych układów stron WWW](http://helion.pl/ksiazki/podrecznik-css-eric-meyer-o-tworzeniu-nowoczesnych-ukladow-stron-www-smashing-magazine-eric-meyer,tfacss.htm).
+
+Jeżeli chodzi o naukę języka programowania JavaScript to odsyłam do tego kompleksowego artukułu [How to Learn JavaScript Properly](http://javascriptissexy.com/how-to-learn-javascript-properly/).
+
+Życzę fascynującej przygody i wytrwałości :)
