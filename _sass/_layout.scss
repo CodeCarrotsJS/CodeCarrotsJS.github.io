@@ -22,6 +22,19 @@
         max-width: 40px;
     }
 
+    span.tiny {
+        display: none;
+    }
+
+    @include media-query($on-laptop) {
+        span {
+            display: none;
+        }
+        span.tiny {
+            display: inline-block;
+        }
+    }
+
     &:hover {
       text-decoration: none;
     }
