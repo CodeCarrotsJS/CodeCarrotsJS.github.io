@@ -6,6 +6,8 @@ permalink: /schedule/
 
 #### Zajęcia pierwsze (20 stycznia 2015) ####
 
+[Prezentacja](http://codecarrotsjs.github.io/prezentacja-pierwsza/)
+
 1. Przełamujemy lody i się poznajemy, ustalamy zasady
 2. Prezentacja
     * Niewiedza to normalny stan
