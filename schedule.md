@@ -24,3 +24,6 @@ permalink: /schedule/
     * Przedstawienie Chrome Developer Tools
 3. Niespodzianka
 4. Praca domowa
+    * Zrobienie przynajmniej początku - ścieżki [JavaScript z Codecademy](http://www.codecademy.com/en/tracks/javascript) i napisanie nam swoich wrażeń - co było łatwe, trudne, co nie było jasne.
+    * Dodatkowo: [Podstawowy tutorial na Scratchu](http://scratch.mit.edu/projects/editor/?tip_bar=getStarted).
+    * Dodatkowo: Początek kusu z [Narzędzi deweloperskich](http://discover-devtools.codeschool.com/).
