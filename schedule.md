@@ -28,7 +28,10 @@ permalink: /schedule/
     * Dodatkowo: [Podstawowy tutorial na Scratchu](http://scratch.mit.edu/projects/editor/?tip_bar=getStarted).
     * Dodatkowo: Początek kusu z [Narzędzi deweloperskich](http://discover-devtools.codeschool.com/).
 
+----
+
 #### Zajęcia drugie (27 stycznia 2015)
+----
 
 #### Zajęcia trzecie (3 marca 2015)
 
