@@ -22,8 +22,20 @@ permalink: /schedule/
 4.  Narzędzia
     * Instalacja i prezentacja narzędzi (IDE: Atom + Chrome)
     * Przedstawienie Chrome Developer Tools
-3. Niespodzianka
-4. Praca domowa
+5. Niespodzianka
+6. Praca domowa
     * Zrobienie przynajmniej początku - ścieżki [JavaScript z Codecademy](http://www.codecademy.com/en/tracks/javascript) i napisanie nam swoich wrażeń - co było łatwe, trudne, co nie było jasne.
     * Dodatkowo: [Podstawowy tutorial na Scratchu](http://scratch.mit.edu/projects/editor/?tip_bar=getStarted).
     * Dodatkowo: Początek kusu z [Narzędzi deweloperskich](http://discover-devtools.codeschool.com/).
+
+#### Zajęcia drugie (27 stycznia 2015)
+
+#### Zajęcia trzecie (3 marca 2015)
+
+[Prezentacja](http://codecarrotsjs.github.io/prezentacja-funkcje/)
+
+1. Czym jest funkcja?
+2. Deklaracja funkcji (deklaracja "klasyczna")
+3. Argumenty funkcji
+4. Zwracanie wartości z funkcji
+5. Przypisanie funkcji do zmiennej
