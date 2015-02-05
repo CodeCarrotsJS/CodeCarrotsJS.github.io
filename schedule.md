@@ -42,7 +42,7 @@ permalink: /schedule/
 3. Argumenty funkcji
 4. Zwracanie wartości z funkcji
 
-### Praca domowa
+##### Praca domowa
 
 [Paczka do zad. 1](http://codecarrotsjs.github.io/files/Funkcje-Zad1.zip)
 
