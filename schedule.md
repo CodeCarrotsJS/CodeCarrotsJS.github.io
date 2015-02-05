@@ -41,4 +41,15 @@ permalink: /schedule/
 2. Deklaracja funkcji (deklaracja "klasyczna")
 3. Argumenty funkcji
 4. Zwracanie wartości z funkcji
-5. Przypisanie funkcji do zmiennej
+
+### Praca domowa
+
+[Paczka do zad. 1](http://codecarrotsjs.github.io/files/Funkcje-Zad1.zip)
+
+1. Otwórz dokument index.html znajdujący się w paczce dołączonej do zadania i wywołaj załączoną funkcję zrobBeczke w Chrome Developer Tools. Rozwiązanie napisz w mailu zwrotnym.
+2. Napisz funkcję, która doda do dokumentu tekst "Witaj świecie" lub inny, wybrany przez Ciebie, następnie wywołaj ją kilka razy.
+3. Napisz funkcję czyMogeProwadzicSamochod z argumentem wiek, która w okienku powiadomienia (alert) wyświetli "Tak, możesz prowadzić samochód" jeśli wiek jest większy lub równy 18 i "Niestety musisz jeszcze podrosnąć", jeśli wiek jest mniejszy niż 18.
+4. Napisz funkcję, która przy wywołaniu zwróci ciąg "Witaj świecie".
+5. Napisz funkcję, która zwróci resztę dzielenia pierwszego argumentu przez drugi.
+6. *Napisz funkcję o nazwie czyParzysta, która dla podanej w argumencie liczby zwróci wartość true, jeśli jest parzysta lub false, jeśli jest nieparzysta.
+7. *Uruchom w konsoli wszystkie przykłady użycia funkcji i napisz, czemu w konsoli widzisz takie, a nie inne wyniki (zinterpretuj je).
