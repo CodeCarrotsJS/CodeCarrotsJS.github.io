@@ -4,9 +4,9 @@ title: Zasady
 permalink: /rules/
 ---
 
-1. Nie spóźniamy się.
+1. Przychodzimy punktualnie.
 2. Nie mówimy na raz.
 3. Pomagamy sobie.
 4. Odrabiamy prace domowe.
-5. PYTAMY.
-6. Nie przyjście na zajęcia trzy razy pod rząd skutkuje opuszczeniem grupy.
+5. **PYTAMY**.
+6. Jeżeli ktoś nie może przyjść na zajęcia, prosimy o informację. W przypadku opuszczenia trzech zajęć pod rząd i braku kontaktu z nami, będziemy oferować miejsce osobom z listy rezerwowej. 
