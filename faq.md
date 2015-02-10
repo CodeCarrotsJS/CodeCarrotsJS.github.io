@@ -7,12 +7,13 @@ permalink: /faq/
 
 Atom dla Windows nie radzi sobie z obsługą niektórych polskich 
 znaków. Problem ten dotyczy również dużej części użytowników systemów nieanglojęzycznych
-i spowodowany jest obsługą w Windowsie prawego klawisza *Alt (AltGr)*, który, [za Wikipedią:](http://pl.wikipedia.org/wiki/AltGr):
->(...) w układzie klawiatury „Polski programisty” odpowiada kombinacji klawiszy Ctrl + Alt, co jest niekiedy kłopotliwe, gdyż w niektórych aplikacjach, sterownikach i skrótach programów znajdujących się na pulpicie zdefiniowane są skróty klawiaturowe Alt+Ctrl+litera.
+i spowodowany jest obsługą w Windowsie prawego klawisza *Alt (AltGr)*, który, [za Wikipedią:](http://pl.wikipedia.org/wiki/AltGr)
+
+> w układzie klawiatury „Polski programisty” odpowiada kombinacji klawiszy Ctrl + Alt, co jest niekiedy kłopotliwe,gdyż w niektórych aplikacjach, sterownikach i skrótach programów znajdujących się na pulpicie definiowane są skróty klawiaturowe Alt+Ctrl+litera.  
 
 Zwykła edycja pliku keymap.cson w tym wypadku nie pomaga, można to obejść przez bezpośrednią edycję pliku win32.json znajdującego się w katalogu: 
 
-C:\Users\\**NazwaUżytownika**\AppData\Local\atom\app-0.176.0\resources\app\keymapsPlik win32.json należy otworzyć dowolnym edytorem tekstu, a następnie wyszukać i zamienić wpisy:
+C:\Users\\NAZWA-UŻYTKOWNIKA\AppData\Local\atom\app-0.176.0\resources\app\keymapsPlik win32.json należy otworzyć dowolnym edytorem tekstu, a następnie wyszukać i zamienić wpisy:
 
 1. `"ctrl-alt-s"` na `"ctrl-alt-9"` (linia 14)
 2. `"ctrl-alt-o"` na `"ctrl-alt-8"` (linia 15)
@@ -20,7 +21,9 @@ C:\Users\\**NazwaUżytownika**\AppData\Local\atom\app-0.176.0\resources\app\keym
 
 Po zapisaniu zmian i ponownym uruchomieniu Atoma wpisywanie polskich znaków diakrytycznych powinno działać prawidłowo.  
 Po aktualizacji Atoma do nowszej wersji (domyśle dzieje się to automatycznie) konieczna może być ponowna edycja pliku win32.json.  
-- - - 
+
+---  
+
 ### Gdzie będą odbywać sie zajęcia?
 
 Zajęcia odbywać będą się w siedzibie firmy [CKSource](http://cksource.com). Lokal numer 508. Bedąc w budynku dzwonimy domofonem i wjeżdżamy windą na czwarte piętro. Po wyjściu z windy idziemy w prawo.
