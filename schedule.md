@@ -4,7 +4,7 @@ title: Plan Zajęć
 permalink: /schedule/
 ---
 
-#### Zajęcia pierwsze (20 stycznia 2015) ####
+#### Zajęcia pierwsze (20 stycznia 2015) - wprowadzenie
 
 [Prezentacja](http://codecarrotsjs.github.io/prezentacja-pierwsza/)
 
@@ -23,17 +23,20 @@ permalink: /schedule/
     * Instalacja i prezentacja narzędzi (IDE: Atom + Chrome)
     * Przedstawienie Chrome Developer Tools
 5. Niespodzianka
-6. Praca domowa
-    * Zrobienie przynajmniej początku - ścieżki [JavaScript z Codecademy](http://www.codecademy.com/en/tracks/javascript) i napisanie nam swoich wrażeń - co było łatwe, trudne, co nie było jasne.
-    * Dodatkowo: [Podstawowy tutorial na Scratchu](http://scratch.mit.edu/projects/editor/?tip_bar=getStarted).
-    * Dodatkowo: Początek kursu z [Narzędzi deweloperskich](http://discover-devtools.codeschool.com/).
+
+##### Praca domowa
+
+* Zrobienie przynajmniej początku - ścieżki [JavaScript z Codecademy](http://www.codecademy.com/en/tracks/javascript) i napisanie nam swoich wrażeń - co było łatwe, trudne, co nie było jasne.
+* Dodatkowo: [Podstawowy tutorial na Scratchu](http://scratch.mit.edu/projects/editor/?tip_bar=getStarted).
+* Dodatkowo: Początek kursu z [Narzędzi deweloperskich](http://discover-devtools.codeschool.com/).
 
 ----
 
-#### Zajęcia drugie (27 stycznia 2015)
+#### Zajęcia drugie (27 stycznia 2015) - zmienne
 ----
 
-#### Zajęcia trzecie (3 marca 2015)
+#### Zajęcia trzecie (3 lutego 2015) - funkcje 1
+----
 
 [Prezentacja](http://codecarrotsjs.github.io/prezentacja-funkcje/)
 
@@ -42,7 +45,7 @@ permalink: /schedule/
 3. Argumenty funkcji
 4. Zwracanie wartości z funkcji
 
-Praca domowa
+##### Praca domowa
 
 [Paczka do zad. 1](http://codecarrotsjs.github.io/files/Funkcje-Zad1.zip)
 
@@ -53,3 +56,25 @@ Praca domowa
 5. Napisz funkcję, która zwróci resztę dzielenia pierwszego argumentu przez drugi.
 6. *Napisz funkcję o nazwie czyParzysta, która dla podanej w argumencie liczby zwróci wartość true, jeśli jest parzysta lub false, jeśli jest nieparzysta.
 7. *Uruchom w konsoli wszystkie przykłady użycia funkcji i napisz, czemu w konsoli widzisz takie, a nie inne wyniki (zinterpretuj je).
+
+#### Zajęcia czwarte (10 lutego 2015) - funkcje 2
+----
+
+#### Zajęcia piąte (17 lutego 2015) - pętle
+
+[prezentacja](http://codecarrotsjs.github.io/loops/)
+
+----
+
+#### Zajęcia szóste (24 lutego 2015) - DOM
+
+[prezentacja](http://codecarrotsjs.github.io/prezentacja-dom/#/).
+
+----
+
+#### Zajęcia siódme (3 marca 2015) - DOM (warsztaty)
+
+----
+
+#### Zajęcia ósme (10 marca 2015) - DOM (warsztaty)
+----
