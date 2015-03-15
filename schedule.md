@@ -77,4 +77,65 @@ permalink: /schedule/
 ----
 
 #### Zajęcia ósme (10 marca 2015) - DOM (warsztaty)
+
+1. Praca nad grą [zgadnij liczbę](https://gist.github.com/adelura/7b18b2d5707ecc3b7ba9).
+2. Zasięg deklarowanych zmiennych:
+    * Zmienna zadeklarowana w funkcji jest dostępna tylko w jej obrębie i tylko w czasie jej wykonywania.
+    * Jeżeli zmienna jest zadeklarowana poza funkcją, to jest dostępna ona globalnie.
+3. Narzędzia deweloperskie chrome (chrome dev tools) i debugowanie kodu. Polecany [artykuł do przeczytania](https://developer.chrome.com/devtools/docs/javascript-debugging)
+
+##### Praca domowa
+
+Zastanowić się nad poniższym kodem i odpowiedzieć na pytania:
+
+    var a = 5;
+
+    function b() {
+        var a = 10;
+    }
+    b();
+
+    console.log(a); // [ co tutaj będzie? ]
+
+-
+
+    var a = 5;
+
+    function b() {
+        a = 10;
+    }
+    b();
+
+    console.log(a); // [ co tutaj będzie? ]
+
+-
+
+    var a = 5;
+
+    function b(a) {
+        a = 10;
+    }
+
+    b(a);
+
+    console.log(a); // [ co tutaj będzie? ]
+
+Zadanie z gwiazdką:
+
+    var a = 5;
+
+    function b() {
+        a = 10;
+    }
+    b(a);
+
+    console.log(a); // [ co tutaj będzie? ]
+
+
+Przerobić grę Rock Papers Scissors wg podanego [wzorca](https://github.com/CodeCarrotsJS/rpsls). Zakodowane już jest pobieranie wyboru użytkownika z guzików, trzeba dodać wybór komputera i znalezienie wygranej - i umieszczenie tego we właściwym miejscu na stronie. CSS strony oparty jest na [Bootstrapie](http://getbootstrap.com/) - dla tych, którzy chcą żeby ładnie wyglądało, a nie chcą zagłębiać się w CSSY - polecam, dużo ułatwia :).
+
+
+
+W pierwszej kolejności robimy zadania z poprzednich zajęć jeśli ktoś nie zrobił.
+
 ----
