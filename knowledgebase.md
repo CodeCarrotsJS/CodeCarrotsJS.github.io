@@ -23,3 +23,9 @@ permalink: /knowledgebase/
 #### JavaScript
 
 [CodeCademy ścieżka JavaScript](http://www.codecademy.com/en/tracks/javascript)
+
+#### Git
+
+[Try Git: Code School](http://try.github.io/levels/1/challenges/1) - Polecamy zacząć od tego linka
+
+[Learn Git Branching](http://pcottle.github.io/learnGitBranching/) - Ten kurs można zrobić po opanowaniu materiału z pierwszego linka
