@@ -58,6 +58,9 @@ permalink: /schedule/
 7. *Uruchom w konsoli wszystkie przykłady użycia funkcji i napisz, czemu w konsoli widzisz takie, a nie inne wyniki (zinterpretuj je).
 
 #### Zajęcia czwarte (10 lutego 2015) - funkcje 2
+
+[Prezentacja](http://codecarrotsjs.github.io/prezentacja-funkcje-2/)
+
 ----
 
 #### Zajęcia piąte (17 lutego 2015) - pętle
