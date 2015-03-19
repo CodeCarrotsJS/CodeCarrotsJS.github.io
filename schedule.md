@@ -66,8 +66,11 @@ permalink: /schedule/
 #### Zajęcia piąte (17 lutego 2015) - pętle
 
 [prezentacja](http://codecarrotsjs.github.io/loops/)
-Na tych zajęciach poznaliśmy różne rodzaje pętli (for, for in, while, do while), a także instrukcję warunkową switch. 
+
+Na tych zajęciach poznaliśmy różne rodzaje pętli (for, for in, while, do while), a także instrukcję warunkową switch.
+
 [Zadania z zajęć wraz z rozwiązaniami](https://gist.github.com/gpks/7897877e4f09fd355d19)
+
 [Praca domowa wraz z rozwiązaniami](https://gist.github.com/gpks/eb5d13d750e1fe213d2b)
 
 Dodatkowo powstała prezentacja przypominająca wiedzę o [tablicach](http://codecarrotsjs.github.io/arrays/#/)
