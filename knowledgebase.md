@@ -4,6 +4,8 @@ title: Baza Wiedzy
 permalink: /knowledgebase/
 ---
 
+---
+
 ### Książki które warto przeczytać
 
 #### HTML & CSS
@@ -18,6 +20,8 @@ permalink: /knowledgebase/
 
 [JavaScript & jQuery](http://javascriptbook.com/) - najlepiej kupić grupowo na amazon.
 
+---
+
 ### Interaktywne kursy online
 
 #### JavaScript
@@ -29,3 +33,10 @@ permalink: /knowledgebase/
 [Try Git: Code School](http://try.github.io/levels/1/challenges/1) - Polecamy zacząć od tego linka
 
 [Learn Git Branching](http://pcottle.github.io/learnGitBranching/) - Ten kurs można zrobić po opanowaniu materiału z pierwszego linka
+
+---
+
+### Artykuły  
+
+#### Artur Delura - jakość kodu
+[Artykuł dostępny na githubie](https://gist.github.com/adelura/5798929f7fd5e22acc10)
